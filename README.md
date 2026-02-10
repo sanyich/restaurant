@@ -3,6 +3,10 @@
 ## Overview
 This document provides comprehensive documentation about the database system used in the Restaurant application. It details the structure, tables, and usage instructions to help developers and users understand how to interact with the database.
 
+## Project details
+The project was developed by 3 students over the course of one semester in 2025.
+The project received 18/20 final grade. 
+
 ## Database Structure
 The database is designed to manage various aspects of a restaurant, including menu items, orders, customer information, and staff management.
 
